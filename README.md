@@ -1,3 +1,3 @@
-# basicsOfBlockchaining
+# Basics Of Blockchaining
 Udemy course
 
